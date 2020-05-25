@@ -2,7 +2,7 @@ package com.seaboat.bean;
 
 /**
 
-* @author awang
+* @author seaboat
 * @version 1.0
 * @date 2020年5月25日 下午1:47:40
 * 
